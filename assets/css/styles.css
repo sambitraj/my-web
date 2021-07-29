@@ -972,15 +972,6 @@ nav__icon {
     .qualification__data {
         gap: .5rem;
     }
-    .services__container {
-        justify-content: center;
-    }
-    .services__content {
-        padding-right: 3.5rem;
-    }
-    .services__modal {
-        padding: 0 .5rem;
-    }
     .project__img {
         width: 200px;
     }
