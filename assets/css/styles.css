@@ -973,7 +973,6 @@ nav__icon {
         gap: .5rem;
     }
     .services__container {
-        grid-template-columns: max-content;
         justify-content: center;
     }
     .services__content {
