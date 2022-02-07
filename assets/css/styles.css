@@ -716,6 +716,12 @@ nav__icon {
     margin-right: var(--mb-0-25);
 }
 
+.cert {
+    width: 700px;
+    border-radius: 0.5rem;
+}
+
+
 
 /* Active Modal */
 
